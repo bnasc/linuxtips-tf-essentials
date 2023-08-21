@@ -1,4 +1,4 @@
-# Kubernetes Essentials - LinuxTips
+# Terraform Essentials - LinuxTips
 Arquivos do curso gratuito Terraform Essentials da LinuxTips.
 
 ---
